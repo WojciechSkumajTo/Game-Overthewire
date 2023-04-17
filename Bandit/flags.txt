@@ -21,51 +21,51 @@ Level 8  --->  Level 9    EN632PlfYiZbn3PhVK3XOGSlNInNE00t
  
 Level 9  --->  Level 10   G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
  
-Level 10 --->  Level 11  6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+Level 10 --->  Level 11   6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
  
-Level 11 --->  Level 12  JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+Level 11 --->  Level 12   JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
  
-Level 12 --->  Level 13  wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+Level 12 --->  Level 13   wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
-Level 13 --->  Level 14  fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq  
+Level 13 --->  Level 14   fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq  
  
-Level 14 --->  Level 15  jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt  
+Level 14 --->  Level 15   jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt  
  
-Level 15 --->  Level 16  JQttfApK4SeyHwDlI9SXGR50qclOAil1
+Level 15 --->  Level 16   JQttfApK4SeyHwDlI9SXGR50qclOAil1
  
-Level 16 --->  Level 17  VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
+Level 16 --->  Level 17   VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
  
-Level 17 --->  Level 18  hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+Level 17 --->  Level 18   hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
  
-Level 18 --->  Level 19  awhqfNnAbc1naukrpqDYcF95h7HoMTrC
+Level 18 --->  Level 19   awhqfNnAbc1naukrpqDYcF95h7HoMTrC
  
-Level 19 --->  Level 20  VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+Level 19 --->  Level 20   VxCazJaVykI6W36BkBU0mJTCM8rR95XT
  
-Level 20 --->  Level 21  NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+Level 20 --->  Level 21   NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
  
-Level 21 --->  Level 22  WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+Level 21 --->  Level 22   WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
  
-Level 22 --->  Level 23  QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
+Level 22 --->  Level 23   QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
  
-Level 23 --->  Level 24  VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
+Level 23 --->  Level 24   VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
  
-Level 24 --->  Level 25  p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
+Level 24 --->  Level 25   p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
  
-Level 25 --->  Level 26  c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
+Level 25 --->  Level 26   c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
  
-Level 26 --->  Level 27  YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
+Level 26 --->  Level 27   YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
  
-Level 27 --->  Level 28  AVanL161y9rsbcJIsFHuw35rjaOM19nR
+Level 27 --->  Level 28   AVanL161y9rsbcJIsFHuw35rjaOM19nR
  
-Level 28 --->  Level 29  tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S
+Level 28 --->  Level 29   tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S
  
-Level 29 --->  Level 30  xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS
+Level 29 --->  Level 30   xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS
  
-Level 30 --->  Level 31  OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt
+Level 30 --->  Level 31   OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt
 
-Level 31 --->  Level 32  rmCBvG56y58BXzv98yZGdO7ATVL5dW8y
+Level 31 --->  Level 32   rmCBvG56y58BXzv98yZGdO7ATVL5dW8y
 
-Level 32 --->  Level 33  odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
+Level 32 --->  Level 33   odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
 
 
 [Solutions]
